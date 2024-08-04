@@ -79,8 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact us at [your-email@example.com].
+If you have any questions or feedback, please feel free to contact us at btiwari004@gmail.com
 
----
-
-Happy Mining! 
+ 
